@@ -6,11 +6,11 @@
         },
         "Mined By 175btc.com" : {
             "name" : "175btc",
-            "link" : "http://www.175btc.com"
+            "link" : "https://www.175btc.com"
         },
         "/mined by gbminers/" : {
             "name" : "GBMiners",
-            "link" : "http://gbminers.com"
+            "link" : "https://gbminers.com"
         },
         "/A-XBT/" : {
             "name" : "A-XBT",
@@ -30,7 +30,7 @@
         },
         "/Bitcoin-Russia.ru/" : {
             "name" : "BitcoinRussia",
-            "link" : "https://bitcoin-russia.ru/"
+            "link" : "https://bitcoin-russia.ru"
         },
         "btcserv" : {
             "name" : "BTCServ",
@@ -74,7 +74,7 @@
         },
         "CoinLab" : {
             "name" : "CoinLab",
-            "link" : "http://coinlab.com"
+            "link" : "https://coinlab.com"
         },
         "50BTC" : {
             "name" : "50BTC",
@@ -172,6 +172,10 @@
             "name" : "Solo CKPool",
             "link" : "http://solo.ckpool.org"
         },
+        "/ckpool.org/" : {
+            "name" : "CKPool",
+            "link" : "http://ckpool.org"
+        },
         "/NiceHashSolo" : {
             "name" : "NiceHash Solo",
             "link" : "https://solo.nicehash.com"
@@ -266,15 +270,15 @@
         },
         "/HaoBTC/" : {
             "name": "Bixin",
-            "link": "https://bixin.com/common/pool_landing"
+            "link": "https://haopool.com/"
         },
         "viabtc.com deploy" : {
             "name": "ViaBTC",
-            "link": "http://viabtc.com"
+            "link": "https://viabtc.com"
         },
         "/ViaBTC/" : {
             "name": "ViaBTC",
-            "link": "http://viabtc.com"
+            "link": "https://viabtc.com"
         },
         "/Bitcoin-India/" : {
             "name": "Bitcoin India",
@@ -327,6 +331,26 @@
         "/mined by poopbut/" : {
             "name": "MiningKings",
             "link": "https://miningkings.com/"
+        },
+        "/DCEX/" : {
+            "name" : "DCEX",
+            "link" : "http://dcexploration.cn"
+        },
+        "/58coin.com/" : {
+            "name" : "58COIN",
+            "link" : "https://www.58coin.com"
+        },
+        "/Mined by HashBX.io/" : {
+            "name": "HashBX",
+            "link": "https://hashbx.io"
+        },
+        "/DPOOL.TOP/" : {
+            "name": "DPOOL",
+            "link": "https://www.dpool.top/"
+        },
+        "/haominer/" : {
+            "name": "Haominer",
+            "link": "http://haominer.com/"
         }
     },
     "payout_addresses" : {
@@ -620,7 +644,11 @@
         },
         "1KsFhYKLs8qb1GHqrPxHoywNQpet2CtP9t" : {
             "name" : "Bixin",
-            "link" : "https://bixin.com/common/pool_landing"
+            "link" : "https://haopool.com/"
+        },
+        "13hQVEstgo4iPQZv9C7VELnLWF7UWtF4Q3" : {
+            "name" : "Bixin",
+            "link" : "https://haopool.com/"
         },
         "1E18BNyobcoiejcDYAz5SjbrzifNDEpM88" : {
             "name" : "BCMonster",
@@ -649,6 +677,22 @@
         "1KGbsDDAgJN2HDNBjmMHp9828qATo5B9c9" : {
             "name" : "MiningKings",
             "link" : "https://miningkings.com/"
+        },
+        "199EDJoCpqV672qESEkfFgEqNT1iR2gj3t" : {
+            "name" : "58COIN",
+            "link" : "https://www.58coin.com/"
+        },
+        "1ACAgPuFFidYzPMXbiKptSrwT74Dg8hq2v" : {
+            "name": "DPOOL",
+            "link": "https://www.dpool.top/"
+        },
+        "36n452uGq1x4mK7bfyZR8wgE47AnBb2pzi" : {
+            "name": "Poolin",
+            "link": "https://www.poolin.com/"
+        },
+        "3KJrsjfg1dD6CrsTeHdHVH3KqMpvL2XWQn" : {
+            "name": "Poolin",
+            "link": "https://www.poolin.com/"
         }
     }
 }
